@@ -1,0 +1,10 @@
+=== AI SOC AUTOMATED INCIDENT REPORT ===
+
+[!] ALERT: Suspicious Activity Detected!
+    Log Details: Failed password for invalid user admin from 45.33.32.156 port 5231
+    Action: Recommended to block source IP.
+
+[!] ALERT: Suspicious Activity Detected!
+    Log Details: Failed password for invalid user admin from 45.33.32.156 port 5232
+    Action: Recommended to block source IP.
+
